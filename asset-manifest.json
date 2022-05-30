@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/CityOfBelgium/static/css/main.81f4bb1e.chunk.css",
+    "main.js": "/CityOfBelgium/static/js/main.b9cea670.chunk.js",
+    "main.js.map": "/CityOfBelgium/static/js/main.b9cea670.chunk.js.map",
+    "runtime-main.js": "/CityOfBelgium/static/js/runtime-main.14535f21.js",
+    "runtime-main.js.map": "/CityOfBelgium/static/js/runtime-main.14535f21.js.map",
+    "static/js/2.0afc9156.chunk.js": "/CityOfBelgium/static/js/2.0afc9156.chunk.js",
+    "static/js/2.0afc9156.chunk.js.map": "/CityOfBelgium/static/js/2.0afc9156.chunk.js.map",
+    "static/js/3.b69f692d.chunk.js": "/CityOfBelgium/static/js/3.b69f692d.chunk.js",
+    "static/js/3.b69f692d.chunk.js.map": "/CityOfBelgium/static/js/3.b69f692d.chunk.js.map",
+    "index.html": "/CityOfBelgium/index.html",
+    "static/css/main.81f4bb1e.chunk.css.map": "/CityOfBelgium/static/css/main.81f4bb1e.chunk.css.map",
+    "static/js/2.0afc9156.chunk.js.LICENSE.txt": "/CityOfBelgium/static/js/2.0afc9156.chunk.js.LICENSE.txt",
+    "static/media/anvers.d4fb0c3d.jpg": "/CityOfBelgium/static/media/anvers.d4fb0c3d.jpg",
+    "static/media/App.css": "/CityOfBelgium/static/media/backPic.0cd26fed.jpg",
+    "static/media/bruges.aa4c1120.jpg": "/CityOfBelgium/static/media/bruges.aa4c1120.jpg",
+    "static/media/bruxelles.95f044d7.jpg": "/CityOfBelgium/static/media/bruxelles.95f044d7.jpg",
+    "static/media/gand.a9e1c2e1.jpg": "/CityOfBelgium/static/media/gand.a9e1c2e1.jpg",
+    "static/media/liege.3b76ea2c.jpg": "/CityOfBelgium/static/media/liege.3b76ea2c.jpg",
+    "static/media/namur.86912b42.jpg": "/CityOfBelgium/static/media/namur.86912b42.jpg",
+    "static/media/tournai.ae4fbe45.jpg": "/CityOfBelgium/static/media/tournai.ae4fbe45.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14535f21.js",
+    "static/js/2.0afc9156.chunk.js",
+    "static/css/main.81f4bb1e.chunk.css",
+    "static/js/main.b9cea670.chunk.js"
+  ]
+}
