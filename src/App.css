@@ -1,38 +1,79 @@
-.App {
-  text-align: center;
+body {
+  background-image: url('./data2/backPic.jpg');
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: 100% 50%;
+  height: 130vh;
+  margin: 0;
+  padding: 0;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+* {
+  box-sizing: border-box;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.divCentrale {
+  margin-top: 2rem;
   display: flex;
-  flex-direction: column;
-  align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  flex-direction: row;
+  align-items: center;
+}
+
+.cadre {
+  width: 22rem;
+  height: 25rem;
+  border-radius: 0.5rem;
+  outline: 1rem solid white;
+}
+
+img {
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'baskerville';
+  /*font-family: \\\'Playfair Display\\\', serif;*/
+  letter-spacing: 3px;
+  opacity: 1;
   color: white;
+  font-size: 3rem;
+}
+h1:hover {
+  filter: blur(0px);
+  cursor: pointer;
+}
+p {
+  font-size: 2rem;
+  line-height: 3rem;
+  color: #000000;
+  margin-right: 2rem;
+  margin-left: 2rem;
+  text-shadow: 1px -1px 2px rgba(161, 152, 149, 0.71);
+}
+button {
+  position: relative;
+  top: 12rem;
+  box-shadow: inset 0px 1px 0px 0px #dcecfb;
+  background: linear-gradient(to bottom, #bddbfa 5%, #80b5ea 100%);
+  border-radius: 6px;
+  border: 1px solid #84bbf3;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: Georgia;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 12px 18px;
+  text-decoration: none;
+  text-shadow: 0px 1px 0px #528ecc;
 }
 
-.App-link {
-  color: #61dafb;
+button:hover {
+  background: linear-gradient(to bottom, #80b5ea 5%, #bddbfa 100%);
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+button:active {
+  position: relative;
+  top: 12.2rem;
 }
